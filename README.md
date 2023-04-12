@@ -26,7 +26,7 @@ Output:
 ```
 
 
-Model can predict give 41 diseases:
+Model can predict the following 41 diseases:
 | Disease | Disease | Disease |
 | --- | --- | --- |
 |Fungal infection|Allergy|GERD|
