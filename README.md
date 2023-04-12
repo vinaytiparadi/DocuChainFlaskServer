@@ -11,6 +11,21 @@
 
 You can take a look at sample.csv for understanding the features.
 
+Example request:
+http://127.0.0.1:5000/predict/111000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
+Output:
+```json
+{
+  "final_prediction": "F",
+  "naive_bayes_prediction": "Fungal infection",
+  "rf_model_prediction": "Fungal infection",
+  "svm_model_prediction": "Fungal infection"
+}
+```
+
+
 Model can predict give 41 diseases:
 | Disease | Disease | Disease |
 | --- | --- | --- |
