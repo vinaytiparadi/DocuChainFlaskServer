@@ -7,7 +7,7 @@
 
 - Make sure you install the required modules.
 - Run main.py
-- Now you can request on localhost:5000/predict/<symptoms>
+- Now you can request on localhost:5000/predict/symptomsString
 
 You can take a look at sample.csv for understanding the features.
 
