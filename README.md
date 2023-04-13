@@ -21,7 +21,8 @@ Output:
   "final_prediction": "F",
   "naive_bayes_prediction": "Fungal infection",
   "rf_model_prediction": "Fungal infection",
-  "svm_model_prediction": "Fungal infection"
+  "svm_model_prediction": "Fungal infection",
+  "specialist": "Dermatologist"
 }
 ```
 
