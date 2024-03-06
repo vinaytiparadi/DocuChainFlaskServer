@@ -1,4 +1,4 @@
-# DocuChainFlaskServer
+# DocuChainFlaskServer [Deprecated]
 
 - A simple flask server for predicting diseases based on the given input which can be deployed on GCP.
 - It takes 132 chars long symptoms string and predicts the disease using custom machine learning model.
